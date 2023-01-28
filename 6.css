@@ -1,0 +1,111 @@
+.background_cahganteng{
+ 
+    background-color: #dfecf0;
+  }
+
+.kontainer_breadcrumd{
+    background-color:#0891e6;
+}
+
+.breadcrumb-item a{
+   color: white;
+}
+
+.navbar{
+    background-color: #28a6f4;
+}
+
+.nav-item i{
+    font-size:20px;
+ 
+   
+   
+}
+
+.nav-item:hover a{ color:white;
+
+}
+
+.hijau{
+    background-color: green;
+    width: 12px;
+    height: 12px;
+}
+.accordion-item button{
+    background-color: #e7f1ff;
+}
+b{
+      background-color: #28a6f438;
+    ;
+}
+.footer_cahganteng{
+    background-color: #023e8a; color: white;
+}
+/* 
+#footercolumns {padding:0em 0 0 2%}
+#footercolumns .block {float:left; width:32%;background:#111111; margin:0 0 0 1%}
+#footercolumns .first, * html #footercolumns .first{clear:both; margin:0}
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+menu ul {
+    list-style-type: none;
+}
+menu li {
+    width:10em;
+    height: 2em;
+    font-size: 20px;
+    color: #FFC312;
+    border-left: 0.08em solid;
+    position: relative;
+    margin-top: 0.8em;
+    cursor: pointer;
+    border-radius: 30px 30px;
+}
+menu li::before,
+menu li::after {
+    content: '';
+    position: absolute;
+    width: inherit;
+    border-left: 0.1em solid;
+    margin-left: -2px;
+    z-index: -1;
+}
+menu li::before {
+    height: 80%;
+    top: 10%;
+    left: -0.3em;
+    filter: brightness(0.8);
+    border-radius: 25px 25px;
+}
+menu li::after {
+    height: 60%;
+    top: 20%;
+    left: -0.57em;
+    filter: brightness(0.6);
+    border-radius: 25px 25px;
+}
+menu li a {
+    text-decoration: none;
+    height: 92%;
+    border: 0.08em solid #fff;
+    background-color: #28a6f4;
+    display: flex;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    transform: translateX(-0.65em);
+    transition: 0.5s;
+    border-radius: 30px 30px;
+    font-family: 'Ubuntu', sans-serif;
+}
+menu li:hover a {
+    transform: translateX(0.15em);
+}
+
+.panel-heading{
+	padding:10px 15px;
+	border-bottom:1px solid transparent;
+	border-top-left-radius:3px;
+	border-top-right-radius:3px} */
